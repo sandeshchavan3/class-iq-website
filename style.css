@@ -136,9 +136,9 @@ header{
     position: relative;
     padding-top: 1px;
     background: radial-gradient(
-    circle at 58% 43%,
-    rgba(194, 245, 120, 0.7) 18%,
-    transparent 35%
+    circle at 60% 43%,
+    rgba(194, 245, 120, 0.7) 10%,
+    transparent 55%
   );
 }
 
