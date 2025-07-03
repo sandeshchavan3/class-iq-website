@@ -103,10 +103,19 @@ header{
 }
 
 .hero-maintext{
-    font-size: 6.8rem;
+    font-size: 6.6rem;
     font-weight: 300;
     line-height: 100%;
-        padding-right: 10%
+        padding-right: 10%;
+        position: relative;
+}
+
+.hero-maintext img{
+    position: absolute;
+        bottom: -10px;
+    left: 0;
+    z-index: 1;
+
 }
 
 .hero-subtext{
